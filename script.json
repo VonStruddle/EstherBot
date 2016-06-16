@@ -1,10 +1,10 @@
 {
   "ENGLISH": "Hello!",
-  "FRANCAIS": "Bonjour !",
-  "BOT": "Hi there!\nI’m the personal bot of Esther, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-  "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-  "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
-  "I LOVE YOU": "Awh, shucks! I love you too!",
-  "CONNECT ME": "",
-  "DISCONNECT": "Roger that, EstherBot is back."
+
+  "FRANCAIS": "Bonjour !\nJe suis QuentinBot, comme mon nom l'indique, le robot de Quentin.\nEtes-vous venu parler de lui ? %[Bien sûr !](postback:bien_sur) %[Parle-moi plutôt de toi](postback:parle_moi_plutot_de_toi)",
+  "BIEN SÛR !": "test Quentin",
+  "PARLE MOI PLUTÔT DE TOI": "test robot",
+
+  "CONNECT ME": "Quentin will personally answer to you as soon as possible.\nQuentin va personnellement vous répondre aussi vite que possible.",
+  "DISCONNECT": "Bip Boop, rebooting... I'm back!\nBip Boop, redémarrage... Je suis de retour !"
 }

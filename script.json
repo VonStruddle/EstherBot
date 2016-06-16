@@ -1,9 +1,9 @@
 {
   "ENGLISH": "Hello!",
 
-  "FRANCAIS": "Bonjour !\nJe suis QuentinBot, comme mon nom l'indique, le robot de Quentin.\nEtes-vous venu parler de lui ? %[Bien sûr !](postback:bien_sur) %[Parle-moi plutôt de toi](postback:parle_moi_plutot_de_toi)",
+  "FRANCAIS": "Bonjour !\nJe suis QuentinBot, comme mon nom l'indique, le robot de Quentin.\nEtes-vous venu parler de lui ? %[Bien sûr !](postback:bien_sur) %[Parle-moi de toi](postback:parle_moi_plutot_de_toi)",
   "BIEN SÛR !": "test Quentin",
-  "PARLE MOI PLUTÔT DE TOI": "test robot",
+  "PARLE MOI DE TOI": "test robot",
 
   "CONNECT ME": "Quentin will personally answer to you as soon as possible.\nQuentin va personnellement vous répondre aussi vite que possible.",
   "DISCONNECT": "Bip Boop, rebooting... I'm back!\nBip Boop, redémarrage... Je suis de retour !"

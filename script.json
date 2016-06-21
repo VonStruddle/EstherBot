@@ -3,12 +3,13 @@
 
 
     "FRANCAIS": "Bonjour !\nJe suis QuentinBot, comme mon nom l'indique, le robot de Quentin.\nEtes-vous venu parler de lui ? %[Bien sûr !](postback:bien_sur) %[Parle-moi de toi](postback:parle-moi_plutot_de_toi)",
+    "FRANÇAIS": "Bonjour !\nJe suis QuentinBot, comme mon nom l'indique, le robot de Quentin.\nEtes-vous venu parler de lui ? %[Bien sûr !](postback:bien_sur) %[Parle-moi de toi](postback:parle-moi_plutot_de_toi)",
 
     "BIEN SÛR !": "Je connais plein de choses à propos de mon créateur, que voulez-vous savoir de lui ? %[Qui est-ce ?](postback:qui_est-ce) %[Études](postback:etudes) %[Expériences](postback:experiences)",
 
     "PARLE-MOI DE TOI": "test robot",
 
-    "QUI EST-CE ?": "Quentin est un jeune homme de 22 ans et vis actuellement à Berlin, en Allemagne\nIl est actuellement en stage de deuxième partie de césure chez Spreadshirt, leader européen du e-commerce de produits personnalisés. Il y travaille sur le SEO (référencement naturel) à la fois on-page et off-page. Il y automatise aussi des trucs.\nA part cela, il est étudiant à Kedge Business School - Bordeaux, et adore passer son temps à apprendre de nouvelles choses dans l'univers du digital, ou à coder. %[SEO ?](postback:seo) %[Kedge Business School](postback:kedge_business_school) %[Coder ?](postback:coder) %[Automatiser des trucs ??](postback:automatiser_des_trucs)",
+    "QUI EST-CE ?": "Quentin est un jeune homme de 22 ans et vit actuellement à Berlin, en Allemagne\nIl est actuellement en stage de deuxième partie de césure chez Spreadshirt, leader européen du e-commerce de produits personnalisés. Il y travaille sur le SEO (référencement naturel) à la fois on-page et off-page. Il y automatise aussi des trucs.\nA part cela, il est étudiant à Kedge Business School - Bordeaux, et adore passer son temps à apprendre de nouvelles choses dans l'univers du digital, ou à coder. %[SEO ?](postback:seo) %[Kedge](postback:kedge) %[Coder ?](postback:coder) %[Automatiser des trucs ??](postback:automatiser_des_trucs)",
 
     "ETUDES": "",
     "EXPERIENCES": "",
